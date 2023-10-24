@@ -6,6 +6,8 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - What is the purpose of variables?
 
+  - To store data
+
 - How do you **declare** a variable?
 
 - How do you initialize (**assign a value to**) a variable?
